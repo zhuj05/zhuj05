@@ -304,6 +304,11 @@ Interactive Map,Manipulating Geospatial Data</td>
     <td><a href="https://github.com/zhu7055/flask_mongodb_api_crud/tree/main">flask_mongodb_api_crud</a></td>
     <td> The repository is a Flask-based API that uses MongoDB for database operations, demonstrating how to perform basic Create, Read, Update, and Delete (CRUD) functions.</td>
   </tr>
+
+  <tr>
+    <td><a href="https://github.com/zhuj05/IT-Infrastructure-AutoFlow">IT-Infrastructure-AutoFlow</td>
+    <td>A cloud-based IT infrastructure maintenance system using JavaScript and Google Calendar API to automate asset scheduling with dynamic timestamping and resource constraint logic.</td>
+  </tr>
 </table>
 
 <!-- Contribuciones 3D GitHub -->
