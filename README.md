@@ -215,7 +215,7 @@
   </a> </td><td valign="top" width="33%">
 <h3 align="center">Most Used Languages:</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuj05&layout=compact)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhu7055&&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuj05&layout=compact)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuj05&&langs_count=8)
 
 <h3 align="center">Project:</h3>
 <table>
