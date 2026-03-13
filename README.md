@@ -208,14 +208,14 @@
   </table>
 
 <h3 align="center">Trophy Case:</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhu7055&theme=radical" alt="zhu7055"/>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhuj05&theme=radical" alt="zhu7055"/>
 
 
 
   </a> </td><td valign="top" width="33%">
 <h3 align="center">Most Used Languages:</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhu7055&layout=compact)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhu7055&&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuj05&layout=compact)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhu7055&&langs_count=8)
 
 <h3 align="center">Project:</h3>
 <table>
