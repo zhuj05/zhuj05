@@ -208,7 +208,7 @@
   </table>
 
 <h3 align="center">Trophy Case:</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhuj05&theme=radical" alt="zhu7055"/>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhuj05&theme=radical" alt="zhuj05"/>
 
 
 
