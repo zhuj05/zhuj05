@@ -324,6 +324,12 @@ Interactive Map,Manipulating Geospatial Data</td>
     <td>Traditional Chinese Localization</td>
     <td>
   </tr>
+    <tr>
+    <td><a href="https://github.com/localizethedocs/numpy-docs-l10n?tab=readme-ov-file#translation-contributors">numpy</a></td>
+    <td>Data Computing/Foundation</td>
+    <td>Traditional Chinese Localization</td>
+    <td>
+  </tr>
 </table>
 
 <!-- Contribuciones 3D GitHub -->
