@@ -311,6 +311,21 @@ Interactive Map,Manipulating Geospatial Data</td>
   </tr>
 </table>
 
+<h3>參與的開源項目 (Open Source Contributions)</h3>
+<table>
+  <tr>
+    <td>Project Name</td>
+    <td>type</td>
+    <td>summarized</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/zhuj05/matplotlib">matplotlib</a></td>
+    <td>Visualization/Analysis</td>
+    <td>Traditional Chinese Localization</td>
+    <td>
+  </tr>
+</table>
+
 <!-- Contribuciones 3D GitHub -->
 [![Contributions south-season-animate](./profile-3d-contrib/profile-south-season-animate.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
 
