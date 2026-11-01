@@ -11,8 +11,6 @@
 - 🌱 I’m currently learning
   <a href="https://angular.tw/" target="_blank" rel="noreferrer"> 
         <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/></a>
-        <a href="https://nodejs.org/zh-tw" target="_blank" rel="noreferrer">
-        <img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="node"/></a>
         <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   </a>
@@ -73,7 +71,9 @@
         <img align="center" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring"></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
-
+      <a href="https://nodejs.org/zh-tw" target="_blank" rel="noreferrer">
+        <img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/></a>
+      
 </div>
   
   </td></tr>
