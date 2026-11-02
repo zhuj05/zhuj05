@@ -328,7 +328,12 @@ Interactive Map,Manipulating Geospatial Data</td>
     <td><a href="https://github.com/localizethedocs/numpy-docs-l10n?tab=readme-ov-file#translation-contributors">numpy</a></td>
     <td>Data Computing/Foundation</td>
     <td>Traditional Chinese Localization</td>
-    
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/localizethedocs/pytest-docs-l10n">pytest</a></td>
+    <td>testing framework that makes it easy to write small, readable tests, and scales to support complex functional testing./Foundation</td>
+    <td>Traditional Chinese Localization</td>
   </tr>
 </table>
 
